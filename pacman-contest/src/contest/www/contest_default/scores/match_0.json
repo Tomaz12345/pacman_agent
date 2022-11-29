@@ -1,0 +1,37 @@
+{
+    "games": [
+        [
+            "Red",
+            "Blue",
+            "layouts\\officeCapture.lay",
+            0,
+            null,
+            114.0,
+            0
+        ]
+    ],
+    "layouts": [
+        "layouts\\officeCapture.lay"
+    ],
+    "max_steps": 1200,
+    "teams_stats": {
+        "Blue": [
+            33.333333333333336,
+            1,
+            0,
+            1,
+            0,
+            0,
+            0
+        ],
+        "Red": [
+            33.333333333333336,
+            1,
+            0,
+            1,
+            0,
+            0,
+            0
+        ]
+    }
+}
